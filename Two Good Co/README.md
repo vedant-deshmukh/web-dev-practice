@@ -1,5 +1,6 @@
 <h2>Link: https://two-good-co-design.netlify.app/ </h2>
 
+Tech Used : HTML,CSS, JavaScript, GSAP, Locomotive.js
 <h2>Overiview: </h2>
 <br>
 
